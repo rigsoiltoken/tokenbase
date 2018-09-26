@@ -1,14 +1,10 @@
 ---
 addr: '0x1829aa045e21e0d59580024a951db48096e01782'
 decimals: 18
-description: "# The following options were found                                                     \
-  \                  # # You may need to edit them and you MUST delete commented lines               \
-  \                           # # From the website: og:description meta tag                          \
-  \                                    # Join in the conversation! Connect with us through our\r\nchannels\
-  \ or sign up to our mailing list for regular updates.   \r\nGot a question? Contact us on\n# From the\
-  \ website: og:description meta tag                                                              # Join\
-  \ in the conversation! Connect with us through our\r\nchannels or sign up to our mailing list for regular\
-  \ updates.   \r\nGot a question? Contact us on"
+description: ->
+  The FuzeX Ecosystem provides real-time
+  exchange between crypto and fiat currencies. This means that you can now bridge the 
+  gap between your online wallet and the one in your pocket.
 links:
 - Bitcointalk: https://bitcointalk.org/index.php?topic=4495101.80
 - Blog: https://medium.com/fuzex
@@ -16,16 +12,14 @@ links:
 - CoinMarketCap: https://coinmarketcap.com/currencies/fuzex/
 - Email: /cdn-cgi/l/email-protection#6e070008012e081b140b16400d01
 - Facebook: https://facebook.com/fuzex.co
-- Facebook: https://www.facebook.com/FuzeX.co/
 - Github: https://github.com/fuzex
 - Reddit: https://www.reddit.com/r/fuzex/
 - Slack: https://fuze-slack-inviter.herokuapp.com/
 - Technical Documentation: https://fuzex.co/wp-content/uploads/2018/01/FuzeX_whitepaper.pdf
 - Telegram: https://t.me/FuzeX
 - Twitter: https://twitter.com/fuzex_co
-- Website: https://fuzex.co/
 - Website: https://www.fuzex.co/
 - YouTube: https://www.youtube.com/channel/UCKC_X1r-3yoBpVeuFcR8thQ
-- Whitepaper: ADD OR DELETE LINE
+- Whitepaper: https://fuzex.co/wp-content/uploads/FuzeX_whitepaper_EN_Ver_1.8.pdf
 name: FuzeX Token
 symbol: FXT
