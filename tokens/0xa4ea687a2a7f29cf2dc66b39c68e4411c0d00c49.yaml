@@ -2,22 +2,13 @@
 addr: '0xa4ea687a2a7f29cf2dc66b39c68e4411c0d00c49'
 decimals: 18
 description: >-
-  # The following options were found                                                                       #
-  # You may need to edit them and you MUST delete commented lines                                          #
-  # From the website: description meta tag                                                                 #
   Ivy is a blockchain-based technology for FIAT & cryptocurrency business transactions which require extensive
   verification in the international monetary system. The ivy network utilizes IVY tokens which carry KYC
   & KYT data points critical for Financial Institution validation
-
-  # From the website: og:description meta tag                                                              #
-  Ivy is a blockchain-based technology for FIAT & cryptocurrency business transactions which require extensive
-  verification in the international monetary system. The ivy network utilizes IVY tokens which carry KYC
-  & KYT data points critical for Financial Institution validation.
-links:
+  links:
 - Blog: https://medium.com/@ivykoin
 - CoinGecko: https://www.coingecko.com/en/coins/ivy/
 - CoinMarketCap: https://coinmarketcap.com/currencies/ivy/
-- Email: /cdn-cgi/l/email-protection#9af7fbf3f6daf3ece3f1f5f3f4b4f9f5f7
 - Facebook: https://www.facebook.com/ivykoin
 - Github: https://github.com/ivy-project
 - Linkedin: https://www.linkedin.com/company/ivykoin/
@@ -27,7 +18,6 @@ links:
 - Twitter: https://twitter.com/ivykoin
 - Website: https://www.ivyproject.com/
 - YouTube: https://www.youtube.com/channel/UCbf60z-GI7e5GE0bL8MjgUA
-- Bitcointalk: ADD OR DELETE LINE
-- Whitepaper: ADD OR DELETE LINE
+- Whitepaper: https://www.ivyproject.com/#papers
 name: IvyKoin Public Network Tokens
 symbol: IVY
