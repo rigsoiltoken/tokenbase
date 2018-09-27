@@ -3,16 +3,16 @@ __FORKDELTA_CUSTOM_SYMBOL: AVOID CONFLICT WITH 0x562952c749d05dca4cd004489a153c7
 addr: '0xfedae5642668f8636a11987ff386bfd215f942ee'
 decimals: 18
 description: >-
-  FILL ME IN
+  Dual-layered protocol for financial assets
+  PAL Network is a decentralised insurance protocol that uses data to bridge
+  the gap between consumers and insurance providers by providing a new level of accessibility within the insurance ecosystem.
 links:
-- Blog: https://medium.com/@palnetwork_
-- Blog: https://medium.com/@policypalnet
+- Blog: https://medium.com/@palnetwork
 - CoinGecko: https://www.coingecko.com/en/coins/policypal/
 - CoinMarketCap: https://coinmarketcap.com/currencies/policypal-network/
-- Email: /cdn-cgi/l/email-protection#bfd6d1d9d0ffcfd0d3d6dcc6cfded391dcd0d2
+- Email: mailto@:hello@policypal.com
 - Github: https://github.com/policypalnet
 - Reddit: https://www.reddit.com/r/PolicyPalNet/
-- Technical Documentation: https://www.policypal.network/whitepaper/PolicyPal_WhitePaper.pdf
 - Telegram: https://t.me/PolicyPalNetwork
 - Twitter: https://twitter.com/PolicyPalNET
 - Twitter: https://twitter.com/palnetwork_
