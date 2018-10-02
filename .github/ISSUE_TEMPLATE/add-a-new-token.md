@@ -1,6 +1,6 @@
 ---
-name: Add a New Token
-about: Request addition of a new token to tokenbase
+name: RIGS OIL TOKEN (RIGS)
+about: An Open Network For Smart Business Economy
 
 ---
 
@@ -21,16 +21,16 @@ Got questions? Join
 * or Telegram chat: https://t.me/ForkDeltaChat
 -->
 
-**Token address:**
+**Token address:0x69b0adec3cb113132c970f3440302df81962d7f6**
 
 
-**Issuer's official website:**
+**Issuer's official website:http://buy.rigsoiltoken.xyz/**
 
 
-**Description:** <!-- 1-3 sentences for the token's description: at least one on the token issuer (eg., the product they are building) and one on token's purpose. -->
+**Description:An Open Network For Smart Business Economy** <!-- 1-3 sentences for the token's description: at least one on the token issuer (eg., the product they are building) and one on token's purpose. -->
 
 
-**A link to the official contract address confirmation:** <!-- Contract address confirmation MUST be linked from the official website and MUST be visible publicly. If the confirmation is not visible immediately, include an explanation of how to find it. -->
+**A link to the official contract address confirmation:http://buy.rigsoiltoken.xyz/token-detail/** <!-- Contract address confirmation MUST be linked from the official website and MUST be visible publicly. If the confirmation is not visible immediately, include an explanation of how to find it. -->
 
 
 **At least 2 links to third-party reviews or discussion of the token, the project/product, or the token issuer:**
@@ -42,5 +42,7 @@ Note:
 * We are looking for substance in reviews. BitcoinTalk announcements and ICO aggregator pages are NOT an acceptable source. Reviews like "Interesting project, good luck", "to the moon" are NOT acceptable.
 * Project's social media channels (Reddit, Twitter, Facebook, Telegram and others) are not acceptable.
 -->
-1. 
-2.
+1. https://www.reddit.com/user/RIGSOILTOKEN/
+2. https://discord.gg/nmbGG4t
+
+3. https://bitcointalk.org/index.php?topic=4555216.0
