@@ -5,7 +5,7 @@
 **ForkDelta** is a decentralized exchange with over 700 tradable ERC20-compliant tokens. Tokenbase is our ERC20 token knowledgebase.
 
 ## Format
-Token information is stored in YAML format, one token per file, in `tokens/0xTOKENADDRESS.yaml`.
+Token information is stored in YAML format, one token per file, in `tokens/0x69b0adec3cb113132c970f3440302df81962d7f6.yaml`.
 
 ### Common YAML
 * ` # Comment` is a YAML comment. The hash `#` must be preceded by a space.
@@ -19,8 +19,8 @@ A token listing file must include the following information:
 ---  # Mandatory "start of the document" marker
 addr: '0x…'  # token contract address, in single quotes
 decimals: 18 # Token decimals
-name: Human Readable Token Name  # Required
-symbol: TOKEN  # Required: Token symbol
+name:RIGS OIL TOKEN  # Required
+symbol: RIGS # Required: Token symbol
 ```
 
 ### Description
@@ -28,25 +28,25 @@ Description of the token can be included:
 
 ```yaml
 ---
-addr: '0x5b0751713b2527d7f002c0c4e2a37e1219610a6b'
-decimals: 18
+addr: '0x69b0adec3cb113132c970f3440302df81962d7f6'
+decimals: 8
 description: The World’s first DAPP to bet on the price of Cryptocurrencies
-name: Horse
-symbol: HORSE
+name: RIGS OIL TOKEN
+symbol: RIGS
 ````
 
 If you need more than one line of description, use the folded scalar notation:
 ```yaml
 ---
-addr: '0x5b0751713b2527d7f002c0c4e2a37e1219610a6b'
-decimals: 18
+addr: '0x69b0adec3cb113132c970f3440302df81962d7f6'
+decimals: 8
 description: >-
   The World’s first DAPP to bet on the price of Cryptocurrencies
   
   Ethorse is an Ethereum Smart Contract based DApp for betting on the price of
   Cryptocurrencies and win from everyone who bets against you.
-name: Horse
-symbol: HORSE
+name: RIGS OIL TOKEN
+symbol: RIGS
 ````
 Note that folded scalar notation requires two new lines for a paragraph break (like Reddit format).
 
@@ -73,16 +73,15 @@ Links can be included to refer the user to external resources relevant to the to
 Example:
 ```yaml
 ---
-addr: '0x5b0751713b2527d7f002c0c4e2a37e1219610a6b'
-decimals: 18
+addr: '0x69b0adec3cb113132c970f3440302df81962d7f6'
+decimals: 8
 links:
-- Email: mailto:support@ethorse.com
-- Telegram: https://telegram.me/ethorse
-- Twitter: https://twitter.com/EthorseTeam
-- Website: https://ethorse.com/
-- Whitepaper: https://ethorse.com/Whitepaper.pdf
-name: Horse
-symbol: HORSE
+- Email: mailto: admin@rigsoiltoken.xyz
+
+- Website: https://buy.rigsoiltoken.xyz/
+- Whitepaper: https://buy.rigsoiltoken.xyz/rigs
+name: RIGS OIL TOKEN
+symbol: RIGS
 ```
 
 ### Notice
@@ -90,13 +89,10 @@ Notice is a special field used to communicate critical information regarding con
 Example:
 ```yaml
 ---
-addr: '0x44f12955189e3f01be5daf1dd9002ee4d774f42b'
-decimals: 18
-name: AfterSchool Token
-notice: >-
-  On October 12, Afterschool voluntarily suspended its ongoing crowdsale and will be returning all pledged ETH
-  to the contributors.
-  <a href="https://medium.com/afterschool/afterschool-ico-announcement-4c36b5ee45da">Read the announcement.</a>
-symbol: AST
+addr: '0x69b0adec3cb113132c970f3440302df81962d7f6'
+decimals: 8
+name: RIGS OIL TOKEN
+
+symbol: RIGS
 ```
 Notice may cointain HTML.
