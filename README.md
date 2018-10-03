@@ -17,8 +17,8 @@ A token listing file must include the following information:
 
 ```yaml
 ---  # Mandatory "start of the document" marker
-addr: '0x…'  # token contract address, in single quotes
-decimals: 18 # Token decimals
+addr: '0x69b0adec3cb113132c970f3440302df81962d7f6'  # token contract address, in single quotes
+decimals: 8 l# Token decimals
 name:RIGS OIL TOKEN  # Required
 symbol: RIGS # Required: Token symbol
 ```
@@ -77,11 +77,11 @@ addr: '0x69b0adec3cb113132c970f3440302df81962d7f6'
 decimals: 8
 links:
 - Email: mailto: admin@rigsoiltoken.xyz
-
 - Website: https://buy.rigsoiltoken.xyz/
 - Whitepaper: https://buy.rigsoiltoken.xyz/rigs
 name: RIGS OIL TOKEN
 symbol: RIGS
+
 ```
 
 ### Notice
@@ -92,7 +92,6 @@ Example:
 addr: '0x69b0adec3cb113132c970f3440302df81962d7f6'
 decimals: 8
 name: RIGS OIL TOKEN
-
 symbol: RIGS
 ```
 Notice may cointain HTML.
