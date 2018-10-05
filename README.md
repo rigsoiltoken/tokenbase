@@ -43,7 +43,7 @@ decimals: 8
 description: >-
   The World’s first DAPP to bet on the price of Cryptocurrencies
   
-  Ethorse is an Ethereum Smart Contract based DApp for betting on the price of
+  RIGS OIL TOKEN is an Ethereum Smart Contract based DApp for betting on the price of
   Cryptocurrencies and win from everyone who bets against you.
 name: RIGS OIL TOKEN
 symbol: RIGS
