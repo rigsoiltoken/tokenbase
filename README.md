@@ -18,7 +18,7 @@ A token listing file must include the following information:
 ```yaml
 ---  # Mandatory "start of the document" marker
 addr: '0x69b0adec3cb113132c970f3440302df81962d7f6'  # token contract address, in single quotes
-decimals: 8 l# Token decimals
+decimals: 8 # Token decimals
 name:RIGS OIL TOKEN  # Required
 symbol: RIGS # Required: Token symbol
 ```
@@ -41,7 +41,7 @@ If you need more than one line of description, use the folded scalar notation:
 addr: '0x69b0adec3cb113132c970f3440302df81962d7f6'
 decimals: 8
 description: >-
-  The World’s first DAPP to bet on the price of Cryptocurrencies
+An Open Network For Smart Business Economy
   
   RIGS OIL TOKEN is an Ethereum Smart Contract based DApp for betting on the price of
   Cryptocurrencies and win from everyone who bets against you.
